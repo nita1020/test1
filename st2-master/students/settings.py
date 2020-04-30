@@ -35,7 +35,7 @@ from linebot.models import *
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'Ub8e3cf75739079f25a50f82b2cbd4c63'
 # 必須放上自己的Channel Access Token
-LINE_CHANNEL_ACCESS_TOKEN ='14/9S1RVUPILrUbL7SoBDdoWkZ7fO6UngH8WyYZoXWbHR6gq+gbNcffNpTaGtYxKVey0A2tbfNCUsJuWYJbeLE0SZWwyi2zELFulfNf6WVHbvqaI9L8PZVGs+2fc4Srb0rrr/0A4/fa1DboqVjCDfQdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN='14/9S1RVUPILrUbL7SoBDdoWkZ7fO6UngH8WyYZoXWbHR6gq+gbNcffNpTaGtYxKVey0A2tbfNCUsJuWYJbeLE0SZWwyi2zELFulfNf6WVHbvqaI9L8PZVGs+2fc4Srb0rrr/0A4/fa1DboqVjCDfQdB04t89/1O/w1cDnyilFU='
 # 必須放上自己的Channel Secret
 LINE_CHANNEL_SECRET='6759a709fffa9663d3d0c0e8f7514400'
 
